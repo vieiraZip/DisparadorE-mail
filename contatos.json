@@ -1,8 +1,8 @@
 [
     { 
         "nome": "Ryan Gabriel",
-        "número": "5511996897014",
-        "email": "rg22422@gmail.com" 
+        "número": "1234567890",
+        "email": "teste1@gmail.com" 
     },
     {
         "nome": "Jonas Vieira",
@@ -12,7 +12,7 @@
     {
         "nome": "Julia Carolina Rocha",
         "número": "12345678890",
-        "email": "julliia.neca@gmail.com" 
+        "email": "teste2@gmail.com" 
     }
 
 ]
