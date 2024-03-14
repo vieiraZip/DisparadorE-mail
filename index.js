@@ -10,7 +10,7 @@ async function enviar(mensagem){
         secure: true,
         auth: {
             user: 'vieira.jonas474@gmail.com',
-            pass: 'usepjzybqwnshpzh',
+            pass: '************',
         }
     
     })
